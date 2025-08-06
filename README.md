@@ -127,7 +127,7 @@ confidence_level = 0.95   # Statistical confidence level
 ## 📋 File Structure
 
 ```
-monte-grocery-prophet/
+Monte-Carlo-Grocery-Prophet/
 ├── README.md                    # This file
 ├── requirements.txt            # Python dependencies
 ├── grocery_budget_app.html    # Interactive web application
