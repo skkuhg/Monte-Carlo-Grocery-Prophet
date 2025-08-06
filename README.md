@@ -36,8 +36,8 @@ This stochastic approach reveals not just whether you might overspend, but **by 
 
 ```bash
 # Clone the repository
-git clone https://github.com/skkuhg/monte-grocery-prophet.git
-cd monte-grocery-prophet
+git clone https://github.com/skkuhg/Monte-Carlo-Grocery-Prophet.git
+cd Monte-Carlo-Grocery-Prophet
 
 # Install dependencies
 pip install -r requirements.txt
